@@ -1,0 +1,6 @@
+Given the above summary of my day, and my to-dos. Given the deadlines I have and the contents of my day, structure out my day please.
+Note, that I don't want you to include the events that are already a part of my day. Only give me an output for things not in my day already where you need to add events so I can finish my to-dos, or otherwise
+
+In addition to adding events based on my to-dos, based on the description of what I want for my day, I want you to add events and/or add descriptions with emoji for the events you add
+
+I want today to be: fun and have some scheduled time for yapping
